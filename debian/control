@@ -9,6 +9,5 @@ Homepage: https://github.com/netrunner-artwork/artwork-wallpapers-netrunner-18.0
 Package: artwork-wallpapers-netrunner-zeronet-c1
 Architecture: all
 Depends: ${misc:Depends}
-Provides: artwork-wallpapers-netrunner-core
 Description: wallpapers for Netrunner Zeronet C1
  This package provides wallpapers for Netrunner Zeronet C1
